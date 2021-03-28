@@ -1,2 +1,2 @@
-# Demo-training
-demo for training
+# CI-with-Jenkins-in-GCP-Demo
+Test CI
